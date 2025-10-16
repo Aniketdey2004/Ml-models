@@ -1,0 +1,21 @@
+Name,Blood Type,Give Birth,Can Fly,Live in Water
+human,warm,yes,no,no
+python,cold,no,no,no
+salmon,cold,no,no,yes
+whale,warm,yes,no,yes
+frog,cold,no,no,sometimes
+komodo,cold,no,no,no
+bat,warm,yes,yes,no
+pigeon,warm,no,yes,no
+cat,warm,yes,no,no
+leopard shark,cold,yes,no,yes
+turtle,cold,no,no,sometimes
+penguin,warm,no,no,sometimes
+porcupine,warm,yes,no,no
+eel,cold,no,no,yes
+salamander,cold,no,no,sometimes
+gila monster,cold,no,no,no
+platypus,warm,no,no,no
+owl,warm,no,yes,no
+dolphin,warm,yes,no,yes
+eagle,warm,no,yes,no
